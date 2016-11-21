@@ -9,6 +9,6 @@ Some Breed names will be suitable for use in a visual assessment of breed, but w
 
 Data for the Animal Breed list uses the following sources: ICAR Interbull Breed Codes, FAO DAD-IS, SIL, FarmIQ, pureFarming, and Oklahoma State University. Links to these sources can be found in the Referenced Documents section of the Animal Data Standard.
 
-The latest animal breed version will be published on this site.
+The latest animal breed version will be published on this site. To view the raw JSON data, select the Breedlist JSON file and click raw.
 
 Please contact us at info@datalinker.org.nz if you have any questions or if you would like to have a breed added or altered.
