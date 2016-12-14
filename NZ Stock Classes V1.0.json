@@ -1,0 +1,362 @@
+[
+  {
+    "Species": "Cattle",
+    "Gender": "Bull",
+    "Description": "Autumn Bull Calves",
+    "Age in months": 0,
+    "Spring (July - Dec)": "",
+    "Autumn (Jan - June)": "Y"
+  },
+  {
+    "Species": "Cattle",
+    "Gender": "Bull",
+    "Description": "Autumn R1yr Bull",
+    "Age in months": 6,
+    "Spring (July - Dec)": "",
+    "Autumn (Jan - June)": "Y"
+  },
+  {
+    "Species": "Cattle",
+    "Gender": "Bull",
+    "Description": "Bull Calves",
+    "Age in months": 0,
+    "Spring (July - Dec)": "Y",
+    "Autumn (Jan - June)": ""
+  },
+  {
+    "Species": "Cattle",
+    "Gender": "Bull",
+    "Description": "R1yr Bulls",
+    "Age in months": 6,
+    "Spring (July - Dec)": "Y",
+    "Autumn (Jan - June)": ""
+  },
+  {
+    "Species": "Cattle",
+    "Gender": "Bull",
+    "Description": "R2yr Bulls",
+    "Age in months": 18,
+    "Spring (July - Dec)": "",
+    "Autumn (Jan - June)": ""
+  },
+  {
+    "Species": "Cattle",
+    "Gender": "Bull",
+    "Description": "R3yr Bulls",
+    "Age in months": 30,
+    "Spring (July - Dec)": "",
+    "Autumn (Jan - June)": ""
+  },
+  {
+    "Species": "Cattle",
+    "Gender": "Bull",
+    "Description": "Bulls",
+    "Age in months": 42,
+    "Spring (July - Dec)": "",
+    "Autumn (Jan - June)": ""
+  },
+  {
+    "Species": "Cattle",
+    "Gender": "Cow",
+    "Description": "Autumn Heifer Calves",
+    "Age in months": 0,
+    "Spring (July - Dec)": "",
+    "Autumn (Jan - June)": "Y"
+  },
+  {
+    "Species": "Cattle",
+    "Gender": "Cow",
+    "Description": "Autumn R1yr Heifers",
+    "Age in months": 6,
+    "Spring (July - Dec)": "",
+    "Autumn (Jan - June)": "Y"
+  },
+  {
+    "Species": "Cattle",
+    "Gender": "Cow",
+    "Description": "Heifer Calves",
+    "Age in months": 0,
+    "Spring (July - Dec)": "Y",
+    "Autumn (Jan - June)": ""
+  },
+  {
+    "Species": "Cattle",
+    "Gender": "Cow",
+    "Description": "R1yr Heifers",
+    "Age in months": 6,
+    "Spring (July - Dec)": "Y",
+    "Autumn (Jan - June)": ""
+  },
+  {
+    "Species": "Cattle",
+    "Gender": "Cow",
+    "Description": "R2yr Heifers",
+    "Age in months": 18,
+    "Spring (July - Dec)": "",
+    "Autumn (Jan - June)": ""
+  },
+  {
+    "Species": "Cattle",
+    "Gender": "Cow",
+    "Description": "Cows",
+    "Age in months": 30,
+    "Spring (July - Dec)": "",
+    "Autumn (Jan - June)": ""
+  },
+  {
+    "Species": "Cattle",
+    "Gender": "Steer",
+    "Description": "Autumn Steer Calves",
+    "Age in months": 0,
+    "Spring (July - Dec)": "",
+    "Autumn (Jan - June)": "Y"
+  },
+  {
+    "Species": "Cattle",
+    "Gender": "Steer",
+    "Description": "Autumn R1yr Steers",
+    "Age in months": 6,
+    "Spring (July - Dec)": "",
+    "Autumn (Jan - June)": "Y"
+  },
+  {
+    "Species": "Cattle",
+    "Gender": "Steer",
+    "Description": "Steer Calves",
+    "Age in months": 0,
+    "Spring (July - Dec)": "Y",
+    "Autumn (Jan - June)": ""
+  },
+  {
+    "Species": "Cattle",
+    "Gender": "Steer",
+    "Description": "R1yr Steers",
+    "Age in months": 6,
+    "Spring (July - Dec)": "Y",
+    "Autumn (Jan - June)": ""
+  },
+  {
+    "Species": "Cattle",
+    "Gender": "Steer",
+    "Description": "R2yr Steers",
+    "Age in months": 18,
+    "Spring (July - Dec)": "",
+    "Autumn (Jan - June)": ""
+  },
+  {
+    "Species": "Cattle",
+    "Gender": "Steer",
+    "Description": "R3yr+ Steers",
+    "Age in months": 30,
+    "Spring (July - Dec)": "",
+    "Autumn (Jan - June)": ""
+  },
+  {
+    "Species": "Deer",
+    "Gender": "Hind",
+    "Description": "Hind Fawns",
+    "Age in months": 0,
+    "Spring (July - Dec)": "",
+    "Autumn (Jan - June)": ""
+  },
+  {
+    "Species": "Deer",
+    "Gender": "Hind",
+    "Description": "R1yr Hind",
+    "Age in months": 9,
+    "Spring (July - Dec)": "",
+    "Autumn (Jan - June)": ""
+  },
+  {
+    "Species": "Deer",
+    "Gender": "Hind",
+    "Description": "R2yr Hind",
+    "Age in months": 21,
+    "Spring (July - Dec)": "",
+    "Autumn (Jan - June)": ""
+  },
+  {
+    "Species": "Deer",
+    "Gender": "Hind",
+    "Description": "MA Hinds",
+    "Age in months": 33,
+    "Spring (July - Dec)": "",
+    "Autumn (Jan - June)": ""
+  },
+  {
+    "Species": "Deer",
+    "Gender": "Stag",
+    "Description": "Stag Fawns",
+    "Age in months": 0,
+    "Spring (July - Dec)": "",
+    "Autumn (Jan - June)": ""
+  },
+  {
+    "Species": "Deer",
+    "Gender": "Stag",
+    "Description": "R1yr Stags",
+    "Age in months": 9,
+    "Spring (July - Dec)": "",
+    "Autumn (Jan - June)": ""
+  },
+  {
+    "Species": "Deer",
+    "Gender": "Stag",
+    "Description": "R2yr Stags",
+    "Age in months": 21,
+    "Spring (July - Dec)": "",
+    "Autumn (Jan - June)": ""
+  },
+  {
+    "Species": "Deer",
+    "Gender": "Stag",
+    "Description": "R3yr Stags",
+    "Age in months": 33,
+    "Spring (July - Dec)": "",
+    "Autumn (Jan - June)": ""
+  },
+  {
+    "Species": "Deer",
+    "Gender": "Stag",
+    "Description": "4yr+ Stags",
+    "Age in months": 45,
+    "Spring (July - Dec)": "",
+    "Autumn (Jan - June)": ""
+  },
+  {
+    "Species": "Sheep",
+    "Gender": "Ewe",
+    "Description": "Autumn Ewe Lambs",
+    "Age in months": 0,
+    "Spring (July - Dec)": "",
+    "Autumn (Jan - June)": "Y"
+  },
+  {
+    "Species": "Sheep",
+    "Gender": "Ewe",
+    "Description": "Autumn Ewe Hoggets",
+    "Age in months": 9,
+    "Spring (July - Dec)": "",
+    "Autumn (Jan - June)": "Y"
+  },
+  {
+    "Species": "Sheep",
+    "Gender": "Ewe",
+    "Description": "Ewe Lambs",
+    "Age in months": 0,
+    "Spring (July - Dec)": "Y",
+    "Autumn (Jan - June)": ""
+  },
+  {
+    "Species": "Sheep",
+    "Gender": "Ewe",
+    "Description": "Ewe Hoggets",
+    "Age in months": 9,
+    "Spring (July - Dec)": "Y",
+    "Autumn (Jan - June)": ""
+  },
+  {
+    "Species": "Sheep",
+    "Gender": "Ewe",
+    "Description": "Two-Tooth Ewes",
+    "Age in months": 16,
+    "Spring (July - Dec)": "",
+    "Autumn (Jan - June)": ""
+  },
+  {
+    "Species": "Sheep",
+    "Gender": "Ewe",
+    "Description": "MA Ewes",
+    "Age in months": 28,
+    "Spring (July - Dec)": "",
+    "Autumn (Jan - June)": ""
+  },
+  {
+    "Species": "Sheep",
+    "Gender": "Ewe",
+    "Description": "5yr+ Ewes",
+    "Age in months": 64,
+    "Spring (July - Dec)": "",
+    "Autumn (Jan - June)": ""
+  },
+  {
+    "Species": "Sheep",
+    "Gender": "Ram",
+    "Description": "Autumn Ram Lambs",
+    "Age in months": 0,
+    "Spring (July - Dec)": "",
+    "Autumn (Jan - June)": "Y"
+  },
+  {
+    "Species": "Sheep",
+    "Gender": "Ram",
+    "Description": "Autumn Ram Hoggets",
+    "Age in months": 9,
+    "Spring (July - Dec)": "",
+    "Autumn (Jan - June)": "Y"
+  },
+  {
+    "Species": "Sheep",
+    "Gender": "Ram",
+    "Description": "Ram Lambs",
+    "Age in months": 0,
+    "Spring (July - Dec)": "Y",
+    "Autumn (Jan - June)": ""
+  },
+  {
+    "Species": "Sheep",
+    "Gender": "Ram",
+    "Description": "Ram Hoggets",
+    "Age in months": 9,
+    "Spring (July - Dec)": "Y",
+    "Autumn (Jan - June)": ""
+  },
+  {
+    "Species": "Sheep",
+    "Gender": "Ram",
+    "Description": "Ram",
+    "Age in months": 16,
+    "Spring (July - Dec)": "",
+    "Autumn (Jan - June)": ""
+  },
+  {
+    "Species": "Sheep",
+    "Gender": "Wether",
+    "Description": "Autumn Wether Lambs",
+    "Age in months": 0,
+    "Spring (July - Dec)": "",
+    "Autumn (Jan - June)": "Y"
+  },
+  {
+    "Species": "Sheep",
+    "Gender": "Wether",
+    "Description": "Autumn Wether Hoggets",
+    "Age in months": 9,
+    "Spring (July - Dec)": "",
+    "Autumn (Jan - June)": "Y"
+  },
+  {
+    "Species": "Sheep",
+    "Gender": "Wether",
+    "Description": "Wether Lambs",
+    "Age in months": 0,
+    "Spring (July - Dec)": "Y",
+    "Autumn (Jan - June)": ""
+  },
+  {
+    "Species": "Sheep",
+    "Gender": "Wether",
+    "Description": "Wether Hoggets",
+    "Age in months": 9,
+    "Spring (July - Dec)": "Y",
+    "Autumn (Jan - June)": ""
+  },
+  {
+    "Species": "Sheep",
+    "Gender": "Wether",
+    "Description": "Wethers",
+    "Age in months": 16,
+    "Spring (July - Dec)": "",
+    "Autumn (Jan - June)": ""
+  }
+]

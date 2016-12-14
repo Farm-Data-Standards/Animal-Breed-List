@@ -1,0 +1,198 @@
+[
+  {
+    "Species": "Cattle",
+    "Gender": "Bull",
+    "Description": "Calf",
+    "Age in months": "0 - 6",
+    "Notes": "Don't have Rising 1 & 2 & not big in deer"
+  },
+  {
+    "Species": "Cattle",
+    "Gender": "Bull",
+    "Description": "Yearling",
+    "Age in months": "",
+    "Notes": ""
+  },
+  {
+    "Species": "Cattle",
+    "Gender": "Bull",
+    "Description": "NA",
+    "Age in months": "",
+    "Notes": ""
+  },
+  {
+    "Species": "Cattle",
+    "Gender": "Bull",
+    "Description": "Bull",
+    "Age in months": "",
+    "Notes": ""
+  },
+  {
+    "Species": "Cattle",
+    "Gender": "Cow",
+    "Description": "Vealer Heifer",
+    "Age in months": "0 - 12",
+    "Notes": ""
+  },
+  {
+    "Species": "Cattle",
+    "Gender": "Cow",
+    "Description": "Calf",
+    "Age in months": "0 - 6",
+    "Notes": ""
+  },
+  {
+    "Species": "Cattle",
+    "Gender": "Cow",
+    "Description": "Yearling Heifer",
+    "Age in months": "",
+    "Notes": ""
+  },
+  {
+    "Species": "Cattle",
+    "Gender": "Cow",
+    "Description": "NA",
+    "Age in months": "",
+    "Notes": ""
+  },
+  {
+    "Species": "Cattle",
+    "Gender": "Cow",
+    "Description": "Cows",
+    "Age in months": "",
+    "Notes": ""
+  },
+  {
+    "Species": "Cattle",
+    "Gender": "Bull",
+    "Description": "Vealer Steer",
+    "Age in months": "0 - 12",
+    "Notes": ""
+  },
+  {
+    "Species": "Cattle",
+    "Gender": "Steer",
+    "Description": "Calf",
+    "Age in months": "0 - 6",
+    "Notes": ""
+  },
+  {
+    "Species": "Cattle",
+    "Gender": "Steer",
+    "Description": "Yearling Steer",
+    "Age in months": "",
+    "Notes": ""
+  },
+  {
+    "Species": "Cattle",
+    "Gender": "Steer",
+    "Description": "NA",
+    "Age in months": "",
+    "Notes": ""
+  },
+  {
+    "Species": "Cattle",
+    "Gender": "Steer",
+    "Description": "Steer",
+    "Age in months": "",
+    "Notes": "Steer -  Export type castrate male cattle with up to eight permanent teeth"
+  },
+  {
+    "Species": "Cattle",
+    "Gender": "Steer",
+    "Description": "Manufacuturing steer",
+    "Age in months": "any",
+    "Notes": "Manufacuturing steer - Castrated male cattle of any age including dairy crossbred and aged types."
+  },
+  {
+    "Species": "Sheep",
+    "Gender": "test",
+    "Description": "Young Lamb",
+    "Age in months": "0 - 5",
+    "Notes": ""
+  },
+  {
+    "Species": "Sheep",
+    "Gender": "Ewe",
+    "Description": "Lamb",
+    "Age in months": "5-Oct",
+    "Notes": ""
+  },
+  {
+    "Species": "Sheep",
+    "Gender": "Ewe",
+    "Description": "Yearling",
+    "Age in months": "Oct-13",
+    "Notes": ""
+  },
+  {
+    "Species": "Sheep",
+    "Gender": "Ewe",
+    "Description": "Hogget",
+    "Age in months": "13-18",
+    "Notes": ""
+  },
+  {
+    "Species": "Sheep",
+    "Gender": "Ewe",
+    "Description": "Adult",
+    "Age in months": ">18",
+    "Notes": ""
+  },
+  {
+    "Species": "Sheep",
+    "Gender": "Ram",
+    "Description": "Lamb",
+    "Age in months": "5-Oct",
+    "Notes": ""
+  },
+  {
+    "Species": "Sheep",
+    "Gender": "Ram",
+    "Description": "Yearling",
+    "Age in months": "Oct-13",
+    "Notes": ""
+  },
+  {
+    "Species": "Sheep",
+    "Gender": "Ram",
+    "Description": "Hogget",
+    "Age in months": "13-18",
+    "Notes": ""
+  },
+  {
+    "Species": "Sheep",
+    "Gender": "Ram",
+    "Description": "Adult",
+    "Age in months": "> 18",
+    "Notes": ""
+  },
+  {
+    "Species": "Sheep",
+    "Gender": "Wether",
+    "Description": "Lamb",
+    "Age in months": "5-Oct",
+    "Notes": ""
+  },
+  {
+    "Species": "Sheep",
+    "Gender": "Wether",
+    "Description": "Yearling",
+    "Age in months": "Oct-13",
+    "Notes": ""
+  },
+  {
+    "Species": "Sheep",
+    "Gender": "Wether",
+    "Description": "Hogget",
+    "Age in months": "13-18",
+    "Notes": ""
+  },
+  {
+    "Species": "Sheep",
+    "Gender": "Wether",
+    "Description": "Adult",
+    "Age in months": "> 18",
+    "Notes": ""
+  }
+]
